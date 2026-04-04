@@ -56,7 +56,7 @@ A proxy server that exposes an **Anthropic-compatible API** backed by **Antigrav
 
 ```bash
 # Run directly with npx (no install needed)
-npx antigravity-claude-proxy@latest start
+npx @heichaowo/antigravity-claude-proxy@latest start
 
 # Or install globally
 npm install -g antigravity-claude-proxy@latest
@@ -66,7 +66,7 @@ antigravity-claude-proxy start
 ### Option 2: Clone Repository
 
 ```bash
-git clone https://github.com/badri-s2001/antigravity-claude-proxy.git
+git clone https://github.com/heichaowo/antigravity-claude-proxy.git
 cd antigravity-claude-proxy
 npm install
 npm start
@@ -84,7 +84,7 @@ acc start
 # or: antigravity-claude-proxy start
 
 # If using npx
-npx antigravity-claude-proxy@latest start
+npx @heichaowo/antigravity-claude-proxy@latest start
 
 # If cloned locally
 npm start
