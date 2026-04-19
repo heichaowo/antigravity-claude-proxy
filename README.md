@@ -1,6 +1,7 @@
 # Antigravity Claude Proxy
 
 [![npm version](https://img.shields.io/npm/v/antigravity-claude-proxy.svg)](https://www.npmjs.com/package/@heichaowo/antigravity-claude-proxy)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/heichaowo?style=flat&logo=github&label=Sponsor)](https://github.com/sponsors/heichaowo)
 [![npm downloads](https://img.shields.io/npm/dm/antigravity-claude-proxy.svg)](https://www.npmjs.com/package/@heichaowo/antigravity-claude-proxy)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
