@@ -73,7 +73,5 @@
     "daisyui": "^4.12.14",
     "postcss": "^8.4.32",
     "tailwindcss": "^3.4.0"
-  },
-  "antigravityVersion": "1.23.2",
-  "antigravityCommit": "15487b3041e65228cae24980a3f796c905ef582c"
+  }
 }
